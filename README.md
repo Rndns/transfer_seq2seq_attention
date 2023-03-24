@@ -39,13 +39,13 @@
 <img width="322" alt="image" src="https://user-images.githubusercontent.com/95123300/227432514-fcca1f32-fffc-4497-a3fe-51222335a2f0.png">
 
 #### 구조
+![image](https://user-images.githubusercontent.com/95123300/227433894-865ca657-baa7-4cb3-9e4f-fb64dc5e70e2.png)
 - Data: input data, test data
 - Model: incoder, decoder
 - Modeling: modularization seq2seq, incoder, decoder / inference
 - Proprecessing: prorecessing
 - app.py: main
 - config.ini: save config
-![image](https://user-images.githubusercontent.com/95123300/227433894-865ca657-baa7-4cb3-9e4f-fb64dc5e70e2.png)
 
 #### Config
 - configparser를 이용한 설정 저장과 불러오기
