@@ -36,7 +36,10 @@
 ## 코드
 ### mode
 - argument를 이용한 train mode와 predict mode로 나누어 실행
-<img width="322" alt="image" src="https://user-images.githubusercontent.com/95123300/227432514-fcca1f32-fffc-4497-a3fe-51222335a2f0.png">
+- batch, epoch size를 입력받아서 실행
+<img width="313" alt="image" src="https://user-images.githubusercontent.com/95123300/227440498-ea9ab947-f7b7-4f99-8cae-e181c6642f91.png">
+<img width="236" alt="image" src="https://user-images.githubusercontent.com/95123300/227440308-4785f238-6cf0-42a6-9d54-c030ffd4784f.png">
+
 
 ### 구조
 ![image](https://user-images.githubusercontent.com/95123300/227433894-865ca657-baa7-4cb3-9e4f-fb64dc5e70e2.png)
