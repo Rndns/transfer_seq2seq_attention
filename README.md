@@ -18,3 +18,8 @@
 ## 한영 seq2seq 
 ### 모델 
 ![image](https://user-images.githubusercontent.com/95123300/227430139-d3f0dad4-5534-4be8-b32d-d654b76bc6db.png)
+
+### 모듈화
+#### mode
+- argument를 이용한 train mode와 predict mode로 나누어 실행
+<img width="322" alt="image" src="https://user-images.githubusercontent.com/95123300/227432514-fcca1f32-fffc-4497-a3fe-51222335a2f0.png">
