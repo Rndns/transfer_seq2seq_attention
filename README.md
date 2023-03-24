@@ -62,6 +62,11 @@
 - encoder, decoder
 ![image](https://user-images.githubusercontent.com/95123300/227437311-c3cec1d7-094d-442d-9dd4-326ca64bb30a.png)
 
+### Predict
+- 정의한 inferece 함수를 통해 번역을 시행한 후
+<img width="918" alt="image" src="https://user-images.githubusercontent.com/95123300/227441182-cf0452a5-e72d-4ad8-af80-253dcd53b1ce.png">
+- 번역된 문장을 csv file 저장하도록 
+<img width="781" alt="image" src="https://user-images.githubusercontent.com/95123300/227441058-186d0bcf-2794-4f13-92d4-430275fc59ec.png">
 
 
 
