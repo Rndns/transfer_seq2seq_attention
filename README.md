@@ -1,7 +1,7 @@
 # transfer_seq2seq_attention
 
-### 프영 seq2seq 모델
-#### 학습 모델
+## 프영 seq2seq 모델
+### 학습 모델
 ![트레인디코너모델](https://user-images.githubusercontent.com/95123300/227431159-da7bed92-16e8-42de-8e7c-fc9231ffc4fa.png)
 
 ### 인코더 모델
@@ -15,6 +15,6 @@
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-### 한영 seq2seq 
-#### 모델 
+## 한영 seq2seq 
+### 모델 
 ![image](https://user-images.githubusercontent.com/95123300/227430139-d3f0dad4-5534-4be8-b32d-d654b76bc6db.png)
