@@ -16,7 +16,6 @@
 ![bleu값](https://user-images.githubusercontent.com/95123300/227431310-21b88c3a-4fb5-49ca-a8b4-dbbb8b7864f5.png)
 
 ### 과정
-![성공한 코드](https://user-images.githubusercontent.com/95123300/227435847-47e0b023-f88b-4130-a459-e41860679b56.png)
 ![성공한 코드](https://user-images.githubusercontent.com/95123300/227436053-bf7466b4-2942-4065-85dd-6431fb5ad57f.png)
 
 ### 총평
