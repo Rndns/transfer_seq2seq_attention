@@ -29,16 +29,16 @@
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-## 한영 seq2seq 
-### 모델 
+# 한영 seq2seq 
+## 모델 
 ![image](https://user-images.githubusercontent.com/95123300/227430139-d3f0dad4-5534-4be8-b32d-d654b76bc6db.png)
 
-### 코드
-#### mode
+## 코드
+### mode
 - argument를 이용한 train mode와 predict mode로 나누어 실행
 <img width="322" alt="image" src="https://user-images.githubusercontent.com/95123300/227432514-fcca1f32-fffc-4497-a3fe-51222335a2f0.png">
 
-#### 구조
+### 구조
 ![image](https://user-images.githubusercontent.com/95123300/227433894-865ca657-baa7-4cb3-9e4f-fb64dc5e70e2.png)
 - Data: input data, test data
 - Model: incoder, decoder
@@ -47,12 +47,12 @@
 - app.py: main
 - config.ini: save config
 
-#### Config
+### Config
 - configparser를 이용한 설정 저장과 불러오기
 ![image](https://user-images.githubusercontent.com/95123300/227433570-ef0cbe79-e402-4552-8adb-a61f629b2c68.png)
 ![image](https://user-images.githubusercontent.com/95123300/227434982-72e90e3e-8d0a-4495-93ac-61a0cdb33a40.png)
 
-#### Model Modulariztion
+### Model Modulariztion
 - seq2seq
 ![image](https://user-images.githubusercontent.com/95123300/227437375-05c2d9f1-57cf-41b1-9749-0df0dcc6253a.png)
 
