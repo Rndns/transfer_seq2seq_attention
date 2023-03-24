@@ -9,7 +9,7 @@
 ![인코더모델](https://user-images.githubusercontent.com/95123300/227431205-59a27ab7-c00e-4f99-87df-9073aa1a55ff.png)
 
 ### 디코더 모델
-![성공한 코드](https://user-images.githubusercontent.com/95123300/227435949-3136b5fc-76fb-48ba-ad5c-e691ff0f9197.png)
+![image](https://user-images.githubusercontent.com/95123300/227437818-04a9d255-5291-4f2f-b899-28ee4d4da546.png)
 ![디코더모델](https://user-images.githubusercontent.com/95123300/227431221-abe9bcae-3c97-42c1-9c7d-bae542c7569a.png)
 
 ### 평가
