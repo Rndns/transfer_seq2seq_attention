@@ -13,6 +13,8 @@
 ### 평가
 ![bleu값](https://user-images.githubusercontent.com/95123300/227431310-21b88c3a-4fb5-49ca-a8b4-dbbb8b7864f5.png)
 
+--
+
 ### 한영 seq2seq 
 #### 모델 
 ![image](https://user-images.githubusercontent.com/95123300/227430139-d3f0dad4-5534-4be8-b32d-d654b76bc6db.png)
