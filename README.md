@@ -50,7 +50,7 @@
 #### Config
 - configparser를 이용한 설정 저장과 불러오기
 ![image](https://user-images.githubusercontent.com/95123300/227433570-ef0cbe79-e402-4552-8adb-a61f629b2c68.png)
-<img width="377" alt="image" src="https://user-images.githubusercontent.com/95123300/227434982-72e90e3e-8d0a-4495-93ac-61a0cdb33a40.png">
+![image](https://user-images.githubusercontent.com/95123300/227434982-72e90e3e-8d0a-4495-93ac-61a0cdb33a40.png)
 
 #### Model Modulariztion
 - seq2seq
