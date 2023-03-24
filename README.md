@@ -23,3 +23,16 @@
 #### mode
 - argument를 이용한 train mode와 predict mode로 나누어 실행
 <img width="322" alt="image" src="https://user-images.githubusercontent.com/95123300/227432514-fcca1f32-fffc-4497-a3fe-51222335a2f0.png">
+
+#### 구조
+- Data: input data, test data
+- Model: incoder, decoder
+- Modeling: modularization seq2seq, incoder, decoder / inference
+- Proprecessing: prorecessing
+- app.py: main
+- config.ini: save config
+<img width="146" alt="image" src="https://user-images.githubusercontent.com/95123300/227433894-865ca657-baa7-4cb3-9e4f-fb64dc5e70e2.png">
+
+#### config
+- import configparser를 이용한 설정 저장
+![image](https://user-images.githubusercontent.com/95123300/227433570-ef0cbe79-e402-4552-8adb-a61f629b2c68.png)
