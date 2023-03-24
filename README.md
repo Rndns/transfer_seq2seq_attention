@@ -1,9 +1,11 @@
 # transfer_seq2seq_attention
 
 ## 프영 seq2seq 모델
+
 ### 학습 모델
 ![성공한 코드](https://user-images.githubusercontent.com/95123300/227435748-a433dc26-8e40-4ad4-913c-a67b55d01f41.png)
 ![트레인디코너모델](https://user-images.githubusercontent.com/95123300/227431159-da7bed92-16e8-42de-8e7c-fc9231ffc4fa.png)
+![image](https://user-images.githubusercontent.com/95123300/227443384-9e63787c-87ce-4fb0-8dcd-ef91b2373479.png)
 
 ### 인코더 모델
 ![인코더모델](https://user-images.githubusercontent.com/95123300/227431205-59a27ab7-c00e-4f99-87df-9073aa1a55ff.png)
@@ -25,21 +27,25 @@
 - encoder_outputs, state_h, state_c =  encoder_lstm(enc_emb) 은닉상태를 알려주려고 이렇게 했습니다.
 - encoder_model = Model(encoder_inputs, [encoder_outputs, encoder_states]) encoder_model모델의 
 - 모든 은닉상태를 파악할려고 encoder_outputs추가했음
-- attention_key를 통해 inputnode가 모델에게 데이터가 어떻게 들어갈건지 알려주는겁니다
+- attention_key를 통해 inputnode가 모델에게 데이터가 어떻게 들어갈건지 알려주는겁니다.
+
 
 ----------------------------------------------------------------------------------------------------------------------------
 
+
 # 한영 seq2seq 
+
 ## 모델 
 ![image](https://user-images.githubusercontent.com/95123300/227430139-d3f0dad4-5534-4be8-b32d-d654b76bc6db.png)
 
+
 ## 코드
+
 ### mode
 - argument를 이용한 train mode와 predict mode로 나누어 실행
 - batch, epoch size를 입력받아서 실행
 <img width="313" alt="image" src="https://user-images.githubusercontent.com/95123300/227440498-ea9ab947-f7b7-4f99-8cae-e181c6642f91.png">
 <img width="236" alt="image" src="https://user-images.githubusercontent.com/95123300/227440308-4785f238-6cf0-42a6-9d54-c030ffd4784f.png">
-
 
 ### 구조
 ![image](https://user-images.githubusercontent.com/95123300/227433894-865ca657-baa7-4cb3-9e4f-fb64dc5e70e2.png)
