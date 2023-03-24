@@ -57,7 +57,7 @@
 ![image](https://user-images.githubusercontent.com/95123300/227437375-05c2d9f1-57cf-41b1-9749-0df0dcc6253a.png)
 
 - encoder, decoder
-<img width="867" alt="image" src="https://user-images.githubusercontent.com/95123300/227437311-c3cec1d7-094d-442d-9dd4-326ca64bb30a.png">
+![image](https://user-images.githubusercontent.com/95123300/227437311-c3cec1d7-094d-442d-9dd4-326ca64bb30a.png)
 
 
 
