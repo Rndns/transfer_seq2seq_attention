@@ -45,7 +45,7 @@
 - Proprecessing: prorecessing
 - app.py: main
 - config.ini: save config
-<img width="146" alt="image" src="https://user-images.githubusercontent.com/95123300/227433894-865ca657-baa7-4cb3-9e4f-fb64dc5e70e2.png">
+![image](https://user-images.githubusercontent.com/95123300/227433894-865ca657-baa7-4cb3-9e4f-fb64dc5e70e2.png)
 
 #### Config
 - configparser를 이용한 설정 저장과 불러오기
